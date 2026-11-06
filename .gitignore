@@ -1,0 +1,27 @@
+# Environment & credentials - never commit
+.env
+google_sa_key.json
+*-sa-key*.json
+electric-vault-*.json
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated data & media
+Data/
+*.mp4
+*.mp3
+*.wav
+*.zip
+
+# Local tooling / old copies
+_archive/
+.claude/
+.vscode/
+graphify-out/
+
+# OS
+.DS_Store
+Thumbs.db

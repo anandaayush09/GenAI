@@ -1,0 +1,10 @@
+fastapi==0.115.13
+uvicorn==0.34.3
+python-multipart==0.0.20
+faster-whisper==1.1.1
+google-generativeai==0.8.5
+google-api-python-client==2.177.0
+google-auth==2.40.3
+python-dotenv==1.1.0
+requests==2.32.4
+requests-toolbelt==1.0.0
